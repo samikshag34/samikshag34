@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Samiksha 👋
 
-<!--
-**samikshag34/samikshag34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Data Science | Graduating May 2026
+📍 Pune, Maharashtra
+🔍 Open to Data Analyst / Data Scientist / AI-ML roles
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+| Project | Stack 
+|---|---|---|
+| IPC Section Classifier (NLP) | Python, Sklearn, Streamlit 
+| AI SQL Chatbot | Python, Flask, LLM, SQLite 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+Python • SQL • Scikit-learn • NLP • TF-IDF • 
+Pandas • Tableau • Power BI • Flask • Streamlit • Selenium
+
+## 📜 Certifications
+✅ Google Advanced Data Analytics (Coursera)
+✅ SQL Basic (HackerRank)
+
+## 📫 Let's Connect
+LinkedIn: linkedin.com/in/samikshagaikwad34
+Email: gaikwadsamiksha34@gmail.com
